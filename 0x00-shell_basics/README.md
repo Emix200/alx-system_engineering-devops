@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display current directory contents
 creates a directory
 move files and directory
+Delete the file
